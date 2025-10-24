@@ -5,7 +5,7 @@ baseurl: ""
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-persephone
+theme: minima
 
 # Plugins
 plugins:
