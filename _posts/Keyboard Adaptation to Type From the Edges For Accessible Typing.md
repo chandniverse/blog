@@ -1,0 +1,35 @@
+---
+layout: post
+title: Keyboard Adaptation to Type From the Edges For Accessible Typing
+date: 2025-10-23
+---
+### Accessible soft-keyboard for android phone to enable the utilisation of tangible references in the typing process
+
+Jan 31, 2016
+![[Pasted image 20251023204051.png]]
+Edge: Smartphone Typing When Blind
+
+Design of a text-input system that uses the edges of a smartphone as tangible markers, making it easy for people with vision loss to type on touch screen phones.
+
+Finalist at Student Design Competition, CHI 2016, San Jose.
+
+ACM Digital Library Link: [EGDE, A Soft Keyboard for Fast Typing for the Visually Challenged](https://dl.acm.org/doi/10.1145/2851581.2890635)
+
+Presentation at CHI 2016, San Jose:
+
+I was introduced to accessibility in HCI when I met a colleague who was blind since birth. When I spent more time with him, I noticed that of all the accessibility gestures he used on his phone, he was most confident with the two finger swipe down from the top - to pull down the notifications bar.
+
+Clearly, having a tangible edge as a marker made the action considerably easier. That sparked the idea to explore if more of the gestures could leverage the sides of the phone. In this project, I've looked at the use of phone edges in typing.
+
+![[Pasted image 20251023204118.png]]
+![[Pasted image 20251023204128.png]]
+![[Pasted image 20251023204134.png]]
+![[Pasted image 20251023204140.png]]
+![[Pasted image 20251023204146.png]]
+
+
+### Poster presented at CHI 2016
+![[Pasted image 20251023204158.png]]
+
+
+Link to demo video: https://www.youtube.com/watch?v=mGh-YNDz9Ag 
