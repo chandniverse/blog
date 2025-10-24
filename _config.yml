@@ -1,0 +1,12 @@
+title: Sandbox
+description: Blog about technology and society
+url: "https://blog.chandninaidu.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
