@@ -11,12 +11,14 @@
             "id": "82274b2cf8d3d63c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20251023211147.png"
+                "file": "2025-10-23.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251023211147"
+              "icon": "lucide-file",
+              "title": "2025-10-23"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20251023211147.png",
+                "file": "2025-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251023211147"
+              "title": "Backlinks for 2025-10-23"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20251023211147.png",
+                "file": "2025-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20251023211147"
+              "title": "Outgoing links from 2025-10-23"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20251023211147.png",
+                "file": "2025-10-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251023211147"
+              "title": "Outline of 2025-10-23"
             }
           }
         ]
@@ -167,14 +169,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "18983cc1b6ebbfd1",
+  "active": "82274b2cf8d3d63c",
   "lastOpenFiles": [
-    "Uber Wrapped, Personal Data Visualisations.md",
+    "2017-06-02.md",
+    "2025-10-23.md",
+    "2016-01-12.md",
+    "2022-10-02.md",
     "Images/Pasted image 20251023211147.png",
     "Images/Pasted image 20251023211128.png",
     "Images/Pasted image 20251023211122.png",
-    "Keyboard Adaptation to Type From the Edges For Accessible Typing.md",
-    "Inquiry Into Experience of Packaging for People with Vision Loss.md",
     "Images/Pasted image 20251023204158.png",
     "Images",
     "Images/Pasted image 20251023204146.png",
